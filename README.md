@@ -1,1 +1,3 @@
-# Quantum-Chemistry
+# Quantum Computing for Simulating Quantum Chemistry
+
+### 🌱  
